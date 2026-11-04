@@ -1,4 +1,4 @@
-﻿﻿#requires -Version 5.1
+﻿#requires -Version 5.1
 <#
 为已缓存的每个 WorkBuddy 账号在桌面创建一个快捷方式。
 双击快捷方式即切换到对应账号；若 WorkBuddy 未运行则自动启动。

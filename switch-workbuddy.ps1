@@ -1,4 +1,4 @@
-﻿#requires -Version 5.1
+﻿﻿#requires -Version 5.1
 <#
 WorkBuddy 本地账号一键切换
 

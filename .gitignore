@@ -1,0 +1,5 @@
+# 本机登录态快照，禁止提交
+*.info
+*.logged-out
+*.tmp
+*.tmp-*
